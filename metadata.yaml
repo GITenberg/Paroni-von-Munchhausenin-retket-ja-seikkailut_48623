@@ -1,0 +1,36 @@
+_repo: Paroni-von-Munchhausenin-retket-ja-seikkailut_48623
+contributor:
+  creator:
+    editor: &id001
+      agent_name: Raspe, Rudolf Erich
+      aliases:
+      - Raspe, Rudolph Eric
+      - Raspe, R. E. (Rudolf Erich)
+      birthdate: 1737
+      deathdate: 1794
+      gutenberg_agent_id: '1120'
+      url: http://www.gutenberg.org/2009/agents/1120
+      wikipedia: http://en.wikipedia.org/wiki/Rudolf_Erich_Raspe
+  translator:
+    agent_name: Suomalainen, Samuli
+    aliases:
+    - Samuli S.
+    - S., Samuli
+    birthdate: 1850
+    deathdate: 1907
+    gutenberg_agent_id: '7732'
+    url: http://www.gutenberg.org/2009/agents/7732
+    wikipedia: http://fi.wikipedia.org/wiki/Carl_Gustaf_Samuel_Suomalainen
+creator:
+  author: *id001
+description: ''
+gutenberg_issued: '2015-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '48623'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+title: Paroni von Münchhausenin retket ja seikkailut
+url: http://www.gutenberg.org/ebooks/48623
